@@ -1,0 +1,9 @@
+[package]
+name = "bos"
+version = "0.1.0"
+authors = ["Nazim Boudeffa"]
+edition = "2021"
+
+# Cargo.toml
+[dependencies]
+bootloader = "0.9"
