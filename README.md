@@ -1,6 +1,6 @@
 # BOS (Basic Operating System)
 
-Système d'exploitation basique écrit en Rust et en franglais.
+OS basique écrit en Rust et en franglais.
 
 Je voulais juste prononcer "bos" au lieu de "dos", donc utilisez le B pour ce que vous voulez : beta, bagel, binouze (sans alcool pour moi), ... lol
 

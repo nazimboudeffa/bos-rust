@@ -169,7 +169,7 @@ impl Shell {
     /// Commande: about - Affiche des informations sur BOS
     fn cmd_about(&self) {
         vga_print("BOS - v0\n");
-        vga_print("Systeme ecrit en Rust\n");
+        vga_print("OS ecrit en Rust\n");
         vga_print("\nCaracteristiques:\n");
         vga_print("  - Mode texte VGA 80x25\n");
         vga_print("  - Gestion des interruptions (IDT)\n");
