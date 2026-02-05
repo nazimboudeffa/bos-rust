@@ -168,10 +168,8 @@ impl Shell {
 
     /// Commande: about - Affiche des informations sur BOS
     fn cmd_about(&self) {
-        vga_print("BOS - Basic Operating System\n");
-        vga_print("Version: 0.1\n");
-        vga_print("Auteur: Nazim Boudeffa\n");
-        vga_print("Ecrit en Rust (bare metal)\n");
+        vga_print("BOS - v0\n");
+        vga_print("Systeme ecrit en Rust\n");
         vga_print("\nCaracteristiques:\n");
         vga_print("  - Mode texte VGA 80x25\n");
         vga_print("  - Gestion des interruptions (IDT)\n");
